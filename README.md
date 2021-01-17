@@ -16,6 +16,7 @@ This application  was created using Express.js and can be used to write, save, a
 
  ![homepage](https://user-images.githubusercontent.com/71668173/104823382-afb07000-5817-11eb-830f-d88e98fc1f76.JPG)
 
+![notes](https://user-images.githubusercontent.com/71668173/104823732-644b9100-581a-11eb-9dcd-c94b54aa67c0.JPG)
 
 
 ## Contribution
